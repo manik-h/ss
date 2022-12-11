@@ -10,6 +10,9 @@ arr = np.concatenate((arr1,arr2),axis = 1)
 print(arr)
 
 def print_all(arr1, arr2, arr):
+    """ 
+    This function prints all the variables
+    """
     print(arr1)
     print(arr2)
     print(arr)
